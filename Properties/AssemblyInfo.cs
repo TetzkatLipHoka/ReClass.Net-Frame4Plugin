@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("Frame4Plugin")]
+[assembly: AssemblyTitle("Frame4")]
 [assembly: AssemblyDescription("Plugin that implements frame4 for ReClass.NET")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("TLH")]
