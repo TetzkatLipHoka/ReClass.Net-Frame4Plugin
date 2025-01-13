@@ -794,5 +794,9 @@ namespace Frame4Plugin
 
             return true;
         }
+        public bool OpenDumpFile(IntPtr dumpFilePath)
+        {
+            return false;
+        }
     }
 }
