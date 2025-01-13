@@ -794,9 +794,15 @@ namespace Frame4Plugin
 
             return true;
         }
-        public bool OpenDumpFile(IntPtr dumpFilePath)
-        {
-            return false;
-        }
+
+    public int ConnectServer(string ip, short port)
+    {
+         return -1;
+    }
+
+    public bool OpenDumpFile(IntPtr dumpFilePath)
+    {
+         return false;
+    }
     }
 }
